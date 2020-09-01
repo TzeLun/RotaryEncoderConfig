@@ -1,2 +1,2 @@
 # RotaryEncoderConfig
-Simple Arduino code to configure an incremental rotary encoder for angular measurement
+Simple Arduino code to configure an incremental rotary encoder for angular position measurement
