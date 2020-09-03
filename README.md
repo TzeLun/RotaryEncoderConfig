@@ -14,7 +14,7 @@ For simple encoders, aside from power rating, there are other properties you sho
 
 Usually the pulse is depicted as a square/rectangular pulse in the datasheet and one pulse period includes the pulse and the duration before the start of next pulse. Based on the given datasheet, there are a total of 4 changes in encoder output (2 for Output A and 2 for Output B) to make up one pulse period. The diagram is given below for easy reference:
 
-![Encoder Output](https://github.com/TzeLun/RotaryEncoderConfig/blob/master/Encoder%20Output.PNG)
+![Encoder Output](https://github.com/TzeLun/RotaryEncoderConfig/blob/master/EncoderOutput_diagram.PNG)
 
 This encoder model is rated at 500 P/R and phase difference of 90 deg. That means 1 pulse is equivalent to 0.72 deg.
 
