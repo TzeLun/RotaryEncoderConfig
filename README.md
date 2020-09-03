@@ -24,5 +24,4 @@ Lastly, since there sould be 4 ISR triggers for 1 pulse, the resolution here is 
 
 There are definitely many posts or codes out there regarding this topic, but to whoever reading this I hope this gives you a rigid understanding on getting started with your incremental rotary encoders.
 
-RE30E-500-213-1 Datasheet:
-https://www.digchip.com/datasheets/parts/datasheet/4413/RE30E-500-213-1-pdf.php
+[RE30E-500-213-1 Datasheet](https://www.digchip.com/datasheets/parts/datasheet/4413/RE30E-500-213-1-pdf.php)
