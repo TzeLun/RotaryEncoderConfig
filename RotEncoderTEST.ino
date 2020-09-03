@@ -1,8 +1,7 @@
 /*****************************************************************************************/
-/*** Author : Lok Tze Lun                                                              ***/
-/*** Date : 1/9/2020 (Last Revised using Arduino Version 1.8.9)                        ***/
+/*** Last Revised using Arduino Version 1.8.9                                          ***/
 /*** Title : Configuration of incremental rotary encoder for angular position tracking ***/
-/*** Model : RE30E_500_213_1, two outputs                                              ***/
+/*** Model : RE30E_500_213_1, three outputs, two in use                                ***/
 /*** NOTE : Code should be usable for other incremental rotary encoder                 ***/
 /*****************************************************************************************/
 
